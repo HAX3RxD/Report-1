@@ -1,7 +1,7 @@
 # Report
 Code : Secret
 
-# FOSITIF THINKING
+# POSITION THINKING
 Jangan Banyak Tanya
 
 <Img src="Stock/Report.png">
